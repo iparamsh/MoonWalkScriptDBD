@@ -7,7 +7,7 @@
 int main()
 {
 	int delay = 130;
-	std::cout << "if you want more hack join our discord: https://discord.gg/C8sMqTRkDM | MADE BY Olivi" << std::endl;
+	std::cout << "if you want more hack join our discord: https://discord.gg/C8sMqTRkDM" << std::endl;
 
 	while (true) 
 	{
